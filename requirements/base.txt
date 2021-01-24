@@ -73,7 +73,7 @@ boto3==1.16.30
 django-storages==1.10.1
 
 # JSON web token
-PyJWT==1.7.1
+PyJWT==2.0.1
 
 # Django Defender
 django-defender==0.8.0
